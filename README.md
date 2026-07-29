@@ -48,9 +48,9 @@ This project simulates a real-world food delivery business (Zomato-style) and an
 
 ## 📊 Dashboard Structure (Power BI)
 
-**Page 1 — Order Analysis:** Revenue trends, order status, payment mode, city-wise revenue
-**Page 2 — Restaurant & Cuisine Analysis:** Top restaurants, cuisine-wise revenue, rating vs order volume
-**Page 3 — Customer Analysis:** Retention rate, acquisition channel performance, sign-up trends
+**Order Analysis:** Revenue trends, order status, payment mode, city-wise revenue<br>
+**Restaurant & Cuisine Analysis:** Top restaurants, cuisine-wise revenue, rating vs order volume<br>
+**Customer Analysis:** Retention rate, acquisition channel performance, sign-up trends<br>
 
 ## 🖼️ Dashboard Preview
 

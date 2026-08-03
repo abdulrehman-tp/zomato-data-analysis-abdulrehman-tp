@@ -1,5 +1,5 @@
 create database zomato_project;
-use zometo_project;
+use zomato_project;
 
 create table customer(
 customer_id	varchar(50) primary key,
